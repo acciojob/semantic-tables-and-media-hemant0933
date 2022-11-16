@@ -1,2 +1,11 @@
 
-/* Your CSS Code here. */
+.table-head{
+   
+    align-content: center;
+    width: 10px;
+}
+.table-body{
+   
+    align-content: center;
+    width: 10px;
+}
